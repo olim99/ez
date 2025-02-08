@@ -1,0 +1,19 @@
+.nav{
+    width: 1588px;
+    height: 94px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+img{
+    position: relative;
+    left: 600px;
+    top: 200px;
+}
+.bth{
+    width: 171.3333282470703px;
+height: 56px;
+border-radius: 8px;
+
+}

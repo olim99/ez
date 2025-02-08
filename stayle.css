@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+    font-family: Inter;
+}
+.nav{
+    width: 1440px;
+height: 140px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+border-width: 2px;
+border: 2px solid #DEDBDB
+
+}
+.gigaboss{
+    width: 650px;
+height: 786px;
+position: relative;
+left: 400px;
+border-radius: 50px;
+border-width: 1px;
+border: 1px solid #DEDBDB
+}
+#username{
+    width: 533px;
+height: 70px;
+border-radius: 20px;
+border-width: 1px;
+background: #FAFAFA;
+border: 1px solid #75757530
+}
+#password{
+    width: 533px;
+height: 70px;
+border-radius: 20px;
+border-width: 1px;
+background: #FAFAFA;
+border: 1px solid #75757530
+}
+input{
+    width: 533px;
+height: 70px;
+border-radius: 20px;
+border-width: 1px;
+background: #FAFAFA;
+border: 1px solid #75757530
+}
+#submitButton{
+    width: 202px;
+height: 67px;
+top: 868px;
+left: 785px;
+border-radius: 20px;
+background: #F69E86;
+color: white;
+}
+.gugu{
+    display: flex; 
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    top: 100px;
+}
+.lol{
+    width: 600px;
+    height: 600px;
+    position: relative;
+    top: 400px;
+    margin: 0 auto;
+}
+.elpromo{
+        width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    position: relative;
+    top: -100px;
+    background-color: #867f7f;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
